@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, collaborating and supporting the community
 - 🌱 I’m currently learning Fullstack Web development - Java / JS / ReactJS 
 - 💞️ I’m looking to collaborate on Product development
-- 📫 How to reach me ..
+- 📫 How to reach me Here!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Been a Z/OS developer and leading a team
 
